@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NAMA KARYAWANTANGGAL PENGAJUANTANGGAL CUTIUPLINERUPLINER 2UPLINER 3TIPE CUTINOTESSTATUSAKSIGAGondrong Asal01 Mei 202507 Mar 2024 - 07 Mar 2024---Cuti Tahunan-PendingHST1Hadir SQA Testing 124 Apr 202523 Apr 2025 - 24</name>
+   <tag></tag>
+   <elementGuidId>260b72ef-2761-4bdc-afa6-b670f00cda3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-oim7up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>709deac8-be2e-4ac1-9a25-427853a2ba29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up</value>
+      <webElementGuid>82b40d78-b0da-42fb-8e91-80d4015c2b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NAMA KARYAWANTANGGAL PENGAJUANTANGGAL CUTIUPLINERUPLINER 2UPLINER 3TIPE CUTINOTESSTATUSAKSIGAGondrong Asal01 Mei 202507 Mar 2024 - 07 Mar 2024---Cuti Tahunan-PendingHST1Hadir SQA Testing 124 Apr 202523 Apr 2025 - 24 Apr 2025Hadir SQA Testing 2--Khitanan/Pembabtisan (2 hari) Menunggu Approval V1HST1Hadir SQA Testing 102 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)CutiDibatalkanNotes :tidak masuk akalLihat SelengkapnyaHST1Hadir SQA Testing 101 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)CutiMenunggu Approval V1TCTesting Cuti01 Mar 202509 Mar 2025 - 10 Mar 2025---Khitanan/Pembabtisan (2 hari) PendingHST1Hadir SQA Testing 101 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Cuti untuk keperluan keluargaMenunggu Approval V1HST1Hadir SQA Testing 101 Mar 202528 Feb 2025 - 28 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)NikahMenunggu Approval V1HST1Hadir SQA Testing 101 Mar 202527 Feb 2025 - 27 Feb 2025Hadir SQA Testing 2--Pernikahan anak (2 hari) CutiMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202502 Feb 2025 - 02 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Pernikahan anakMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202501 Feb 2025 - 01 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Pernikahan anakMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)rrrrrDibatalkanNotes :tidak masuk akalLihat SelengkapnyaHST1Hadir SQA Testing 117 Feb 202518 Feb 2025 - 19 Feb 2025Nurdin Ismail--Khitanan/Pembabtisan (2 hari) CekDibatalkanNotes :testLihat SelengkapnyaYBYosep Bahtiar11 Sep 202407 Okt 2024 - 07 Okt 2024Aldi Piero Ashady 2--Cuti Tahunan-APPROVEDARNADITYA RIDWAN NUGRAHA09 Sep 202409 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti persalinan (3 bulan) HAMIL Menunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti TahunandoneMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202410 Sep 2024 - 11 Sep 2024Mukhamad winanto--Pernikahan anak (2 hari) testingMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti TahunantestMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 12 Sep 2024Mukhamad winanto--Cuti TahunantestMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 10 Sep 2024Mukhamad winanto--Cuti TahunanlahiranMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 10 Sep 2024Mukhamad winanto--Cuti TahunanlahiranMenunggu Approval V1HHusain19 Agt 202419 Agt 2024 - 20 Agt 2024Goklas MAlif ClientAlif Client V3Khitanan/Pembabtisan (2 hari) TestMenunggu Approval V3AANAgung Aji Nugraha19 Agt 202415 Agt 2024 - 15 Agt 2024Noviar Budi-Alif Client V3Cuti Tahunantest email Menunggu Approval V3HHusain19 Agt 202420 Agt 2024 - 21 Agt 2024Goklas M--Pernikahan anak (2 hari) Test EmailRejected V1Notes :TestLihat SelengkapnyaHHusain16 Agt 202418 Agt 2024 - 19 Agt 2024-Alif ClientAlif Client V3Pernikahan anak (2 hari) TestMenunggu Approval V3DWFDS13 Widiya Fitri01 Agt 202408 Agt 2024 - 08 Agt 2024SPV1 Harry Setiawan--Cuti TahunanKeperluan pribadiMenunggu Approval V1Rows per page:251-25 of 154</value>
+      <webElementGuid>52d714d4-94a6-40bf-94d9-596f521461df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up&quot;]</value>
+      <webElementGuid>222349d6-a610-4194-8c89-93e95d8de598</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>a76f1eb1-db9c-4ffc-b50c-886945970ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::div[2]</value>
+      <webElementGuid>c6db6606-9775-4970-b720-0e51db676691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[2]</value>
+      <webElementGuid>d37b6f39-59db-4708-8d65-478955a2c12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>0f2beb34-73d9-4f22-86a3-80b9b0e870b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NAMA KARYAWANTANGGAL PENGAJUANTANGGAL CUTIUPLINERUPLINER 2UPLINER 3TIPE CUTINOTESSTATUSAKSIGAGondrong Asal01 Mei 202507 Mar 2024 - 07 Mar 2024---Cuti Tahunan-PendingHST1Hadir SQA Testing 124 Apr 202523 Apr 2025 - 24 Apr 2025Hadir SQA Testing 2--Khitanan/Pembabtisan (2 hari) Menunggu Approval V1HST1Hadir SQA Testing 102 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)CutiDibatalkanNotes :tidak masuk akalLihat SelengkapnyaHST1Hadir SQA Testing 101 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)CutiMenunggu Approval V1TCTesting Cuti01 Mar 202509 Mar 2025 - 10 Mar 2025---Khitanan/Pembabtisan (2 hari) PendingHST1Hadir SQA Testing 101 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Cuti untuk keperluan keluargaMenunggu Approval V1HST1Hadir SQA Testing 101 Mar 202528 Feb 2025 - 28 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)NikahMenunggu Approval V1HST1Hadir SQA Testing 101 Mar 202527 Feb 2025 - 27 Feb 2025Hadir SQA Testing 2--Pernikahan anak (2 hari) CutiMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202502 Feb 2025 - 02 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Pernikahan anakMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202501 Feb 2025 - 01 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Pernikahan anakMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)rrrrrDibatalkanNotes :tidak masuk akalLihat SelengkapnyaHST1Hadir SQA Testing 117 Feb 202518 Feb 2025 - 19 Feb 2025Nurdin Ismail--Khitanan/Pembabtisan (2 hari) CekDibatalkanNotes :testLihat SelengkapnyaYBYosep Bahtiar11 Sep 202407 Okt 2024 - 07 Okt 2024Aldi Piero Ashady 2--Cuti Tahunan-APPROVEDARNADITYA RIDWAN NUGRAHA09 Sep 202409 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti persalinan (3 bulan) HAMIL Menunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti TahunandoneMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202410 Sep 2024 - 11 Sep 2024Mukhamad winanto--Pernikahan anak (2 hari) testingMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti TahunantestMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 12 Sep 2024Mukhamad winanto--Cuti TahunantestMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 10 Sep 2024Mukhamad winanto--Cuti TahunanlahiranMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 10 Sep 2024Mukhamad winanto--Cuti TahunanlahiranMenunggu Approval V1HHusain19 Agt 202419 Agt 2024 - 20 Agt 2024Goklas MAlif ClientAlif Client V3Khitanan/Pembabtisan (2 hari) TestMenunggu Approval V3AANAgung Aji Nugraha19 Agt 202415 Agt 2024 - 15 Agt 2024Noviar Budi-Alif Client V3Cuti Tahunantest email Menunggu Approval V3HHusain19 Agt 202420 Agt 2024 - 21 Agt 2024Goklas M--Pernikahan anak (2 hari) Test EmailRejected V1Notes :TestLihat SelengkapnyaHHusain16 Agt 202418 Agt 2024 - 19 Agt 2024-Alif ClientAlif Client V3Pernikahan anak (2 hari) TestMenunggu Approval V3DWFDS13 Widiya Fitri01 Agt 202408 Agt 2024 - 08 Agt 2024SPV1 Harry Setiawan--Cuti TahunanKeperluan pribadiMenunggu Approval V1Rows per page:251-25 of 154' or . = 'NAMA KARYAWANTANGGAL PENGAJUANTANGGAL CUTIUPLINERUPLINER 2UPLINER 3TIPE CUTINOTESSTATUSAKSIGAGondrong Asal01 Mei 202507 Mar 2024 - 07 Mar 2024---Cuti Tahunan-PendingHST1Hadir SQA Testing 124 Apr 202523 Apr 2025 - 24 Apr 2025Hadir SQA Testing 2--Khitanan/Pembabtisan (2 hari) Menunggu Approval V1HST1Hadir SQA Testing 102 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)CutiDibatalkanNotes :tidak masuk akalLihat SelengkapnyaHST1Hadir SQA Testing 101 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)CutiMenunggu Approval V1TCTesting Cuti01 Mar 202509 Mar 2025 - 10 Mar 2025---Khitanan/Pembabtisan (2 hari) PendingHST1Hadir SQA Testing 101 Mar 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Cuti untuk keperluan keluargaMenunggu Approval V1HST1Hadir SQA Testing 101 Mar 202528 Feb 2025 - 28 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)NikahMenunggu Approval V1HST1Hadir SQA Testing 101 Mar 202527 Feb 2025 - 27 Feb 2025Hadir SQA Testing 2--Pernikahan anak (2 hari) CutiMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202502 Feb 2025 - 02 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Pernikahan anakMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202501 Feb 2025 - 01 Feb 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)Pernikahan anakMenunggu Approval V1HST1Hadir SQA Testing 126 Feb 202531 Jan 2025 - 31 Jan 2025Hadir SQA Testing 2--Pernikahan anak(1 hari)rrrrrDibatalkanNotes :tidak masuk akalLihat SelengkapnyaHST1Hadir SQA Testing 117 Feb 202518 Feb 2025 - 19 Feb 2025Nurdin Ismail--Khitanan/Pembabtisan (2 hari) CekDibatalkanNotes :testLihat SelengkapnyaYBYosep Bahtiar11 Sep 202407 Okt 2024 - 07 Okt 2024Aldi Piero Ashady 2--Cuti Tahunan-APPROVEDARNADITYA RIDWAN NUGRAHA09 Sep 202409 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti persalinan (3 bulan) HAMIL Menunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti TahunandoneMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202410 Sep 2024 - 11 Sep 2024Mukhamad winanto--Pernikahan anak (2 hari) testingMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 09 Sep 2024Mukhamad winanto--Cuti TahunantestMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 12 Sep 2024Mukhamad winanto--Cuti TahunantestMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 10 Sep 2024Mukhamad winanto--Cuti TahunanlahiranMenunggu Approval V1ARNADITYA RIDWAN NUGRAHA09 Sep 202408 Sep 2024 - 10 Sep 2024Mukhamad winanto--Cuti TahunanlahiranMenunggu Approval V1HHusain19 Agt 202419 Agt 2024 - 20 Agt 2024Goklas MAlif ClientAlif Client V3Khitanan/Pembabtisan (2 hari) TestMenunggu Approval V3AANAgung Aji Nugraha19 Agt 202415 Agt 2024 - 15 Agt 2024Noviar Budi-Alif Client V3Cuti Tahunantest email Menunggu Approval V3HHusain19 Agt 202420 Agt 2024 - 21 Agt 2024Goklas M--Pernikahan anak (2 hari) Test EmailRejected V1Notes :TestLihat SelengkapnyaHHusain16 Agt 202418 Agt 2024 - 19 Agt 2024-Alif ClientAlif Client V3Pernikahan anak (2 hari) TestMenunggu Approval V3DWFDS13 Widiya Fitri01 Agt 202408 Agt 2024 - 08 Agt 2024SPV1 Harry Setiawan--Cuti TahunanKeperluan pribadiMenunggu Approval V1Rows per page:251-25 of 154')]</value>
+      <webElementGuid>a89ebe61-1a4c-44bf-8c3d-e87430054dbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
