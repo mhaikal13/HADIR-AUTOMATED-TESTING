@@ -25,6 +25,10 @@ WebUI.click(findTestObject('Object Repository/Sub_Menu_Kehadiran/Button_Export/b
 
 WebUI.click(findTestObject('Object Repository/Sub_Menu_Kehadiran/Button_Export/button_Export_1'))
 
+def respone = WS.sendRequest(findTestObject('Object Repository/export'))
+
+WS.verifyResponseStatusCodeInRange(respone, 200, 304)
+
 WebUI.takeScreenshot()
 
 WebUI.delay(2)
